@@ -23,4 +23,4 @@ The plugin uses the KONAH connector at `https://konahmedia.com/api/mcp`. The fir
 
 Needs a KONAH CRM 2.0 plan. Questions: support@konahmedia.com · https://konahmedia.com/crm
 
-© KONAH Media Group LLC
+© 2026 KONAH Media Group LLC. All rights reserved. See [LICENSE](LICENSE).

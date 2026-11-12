@@ -9,7 +9,7 @@ Give the agent a short, prioritized plan for today from their own KONAH account.
 
 1. Call `konah_today`.
 2. Lead with what can't wait, in this order:
-   - Deal deadlines in the next 2 days (`deal_deadlines_this_week`).
+   - Deal deadlines in the next 2 days (from `konah_today`; use `deal_dates` with days: 2 for more detail).
    - Overdue tasks, then today's tasks and meetings.
    - People waiting for a reply, longest wait first.
    - Keep-in-touch calls that are due.
