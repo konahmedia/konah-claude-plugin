@@ -8,8 +8,12 @@
     "url": "https://konahmedia.com"
   },
   "homepage": "https://konahmedia.com/software/integrations/claude",
+  "repository": "https://github.com/konahmedia/konah-claude-plugin",
+  "documentationUrl": "https://konahmedia.com/software/integrations/claude",
+  "supportUrl": "mailto:support@konahmedia.com",
   "license": "LicenseRef-Proprietary",
   "privacyPolicyUrl": "https://konahmedia.com/legal/privacy",
+  "termsOfServiceUrl": "https://konahmedia.com/legal/terms",
   "keywords": [
     "real estate",
     "realtor",
