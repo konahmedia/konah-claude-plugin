@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "konah": {
+      "type": "http",
+      "url": "https://konahmedia.com/api/mcp"
+    }
+  }
+}

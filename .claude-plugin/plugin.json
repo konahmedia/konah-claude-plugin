@@ -1,0 +1,11 @@
+{
+  "name": "konah",
+  "version": "1.0.0",
+  "description": "KONAH for real estate agents: run your day, follow up with leads, launch listings and keep your sphere warm from Claude, with your KONAH CRM, listing media and AI Social. Emails and texts are drafted for your Send, never sent for you.",
+  "author": {
+    "name": "KONAH Media Group LLC",
+    "url": "https://konahmedia.com"
+  },
+  "homepage": "https://konahmedia.com/crm",
+  "keywords": ["real estate", "realtor", "CRM", "real estate CRM", "listing photos", "follow up", "leads", "open house", "social media", "transaction coordinator"]
+}
